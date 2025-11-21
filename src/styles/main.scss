@@ -2,6 +2,4 @@
 @use './base.scss';
 @use './vant-theme.scss';
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss';
